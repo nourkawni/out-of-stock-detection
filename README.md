@@ -3,7 +3,7 @@
 The current retail store inventory management system requires manual scanning and counting of products, which is a time-consuming and error prone process. Computer vision can automate inventory management by using cameras to capture real-time data on product availability. This project proposes a novel approach to analyze out-of-stock (OOS) items. The approach provides new annotated datasets of images of retail store shelves, uses deep learning models to detect OOS items and price tags on the shelves, and implements an algorithm to match the OOS items to the appropriate price tag and extract its barcode and textual information to successfully identify the OOS items.
 
 # Research Paper
-This work was published in In Proceedings of the 39th ACM/SIGAPP Symposium on Applied Computing (SAC'24), Association for Computing Machinery (ACM) Digital Library.
+This work was published in Proceedings of the 39th ACM/SIGAPP Symposium on Applied Computing (SAC'24), Association for Computing Machinery (ACM) Digital Library.
 [Publication](https://dl.acm.org/doi/10.1145/3605098.3636200)
 
 # Objectives 
