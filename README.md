@@ -1,1 +1,1 @@
-# out-of-stock-detection
+# Identifying Out-of-stock Items at Retail Stores Using Computer Vision
