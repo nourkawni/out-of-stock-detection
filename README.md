@@ -32,11 +32,4 @@ This work was published in Proceedings of the 39th ACM/SIGAPP Symposium on Appli
 **Development Environment:** Google Colab
 
 **Computer Vision Object Detection Model:** YOLO
-   
-# Contributors
-- [@Maria Pasaylo](https://github.com/mariapasaylo)
-- [@Nour Kawni](https://github.com/nourkawni)
-- [@Camilla Fonseca](https://github.com/fonsecamilla)
-- [@Bethlehem Tassew](https://github.com/Betty987)
-
 
